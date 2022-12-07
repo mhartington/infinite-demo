@@ -1,0 +1,7 @@
+{
+  "name": "v15-standalone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
